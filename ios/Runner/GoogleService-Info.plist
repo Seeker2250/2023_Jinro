@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>601415769028-sn8j9qdmkrguarrckua1i1mtijt9rgpa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.601415769028-sn8j9qdmkrguarrckua1i1mtijt9rgpa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAeAX6ErTSoeXtXSbw5XsOVTHSGzFH3u3Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601415769028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutter2023Project</string>
+	<key>PROJECT_ID</key>
+	<string>forsmu-6a11b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>forsmu-6a11b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601415769028:ios:1f25cdf78d3adfb79de291</string>
+	<key>DATABASE_URL</key>
+	<string>https://forsmu-6a11b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
